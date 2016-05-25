@@ -1,7 +1,7 @@
 #Projeto Jekyll
 
-$ gem install rubygems-update  # again, might need to be admin/root
-$ update_rubygems              # ... here too
+$ gem install rubygems-update  
+$ update_rubygems              
 
 
 depois
@@ -14,7 +14,7 @@ depois navegue até a pasta do projeto
 
 
 rode o comando
-##jekyll serve
+jekyll serve
 
 
 abrirá 
