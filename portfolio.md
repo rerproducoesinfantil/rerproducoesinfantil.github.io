@@ -16,13 +16,12 @@ permalink: /portfolio/
                         </div>
                         <!-- Portfolio counter end -->  
                         <div class="filter-holder column-filter">
-                            <div class="filter-button">Filter <i class="fa fa-long-arrow-down"></i></div>
+                            <div class="filter-button">Filtro <i class="fa fa-long-arrow-down"></i></div>
                             <div class="gallery-filters hid-filter">
-                                <a href="#" class="gallery-filter transition2 gallery-filter_active" data-filter="*">All Albums</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".people">People</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".nature">Nature</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".comercial">Comercial</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".travel">Travel</a>
+                                <a href="#" class="gallery-filter transition2 gallery-filter_active" data-filter="*">Todas</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".people">Meninos</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".nature">Meninas</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".comercial">Familia</a>
                             </div>
                         </div>
                         <!--=============== portfolio holder ===============-->
@@ -237,7 +236,7 @@ permalink: /portfolio/
                     </div>
                     <!-- Content end  -->  
                     <!-- Share container  -->    
-                    <div class="share-container  isShare"  data-share="['facebook','pinterest','googleplus','twitter','linkedin']"></div>
+                    <div class="share-container  isShare"  data-share="['facebook','googleplus','twitter','linkedin']"></div>
                 </div>
                 <!-- content holder end -->
             </div>
