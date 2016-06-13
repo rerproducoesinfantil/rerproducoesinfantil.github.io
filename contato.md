@@ -48,9 +48,10 @@ permalink: /contato/
                                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                         <ul class="contact-list no-dec">
-                                            <li><span>Endereço : </span><a href="#">Rua tal tal tal tal </a></li>
-                                            <li><span>Telefone : </span><a href="#">+11xxxxxxxxx</a></li>
-                                            <li><span>E-mail : </span><a href="#">yourmail@example.com</a></li>
+                                            <li><span>Endereço : </span><a>Rua Tirana n° 45 </a></li>
+                                            <li><span>Telefone : </span><a>+11 2116-4223</a></li>
+                                            <li><span>Celular : </span><a>+11 99243-4409</a></li>
+                                            <li><span>E-mail : </span><a href="mailto:rerproducoes@hotmail.com">rerproducoes@hotmail.com</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -58,30 +59,12 @@ permalink: /contato/
                         </section>
                         <!--  Section contact info end   -->
                         <!--  Section social   -->
-                        <section class="no-padding">
-                            <div class="content">
-                                <div class="inline-facts-holder">
-                                    <div class="inline-facts">
-                                        <h6><a href="#">Facebook</a></h6>
-                                    </div>
-                                    <div class="inline-facts">
-                                        <h6><a href="#">Twitter</a></h6>
-                                    </div>
-                                    <div class="inline-facts">
-                                        <h6><a href="#">Instagram</a></h6>
-                                    </div>
-                                    <div class="inline-facts">
-                                        <h6><a href="#">Pinterest</a></h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
                         <!-- social end  -->
                         <!--  Section map   --> 
                         <section class="no-padding" id="sec2">
                             <div class="map-box">
                                 <div class="map-holder skrollable skrollable-before" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);" style="transform: translateY(-300px);">
-                                   <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d29256.93146310438!2d-46.55835684237148!3d-23.564261419594338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x94ce5dc4a49e16dd%3A0x51b4f99af24814e1!2sVila+Formosa%2C+S%C3%A3o+Paulo+-+SP!3m2!1d-23.5668787!2d-46.543988399999996!5e0!3m2!1spt-BR!2sbr!4v1465444170689" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0771479507466!2d-46.54863948539666!3d-23.565668684680748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5dcfe78378e3%3A0xc51ba394217707eb!2sR.+Tirana%2C+45+-+Vila+Formosa%2C+S%C3%A3o+Paulo+-+SP%2C+03359-110!5e0!3m2!1spt-BR!2sbr!4v1465859915057" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </section>

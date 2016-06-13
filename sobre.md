@@ -193,12 +193,11 @@ permalink: /sobre/
                                         <h2>Serviços</h2>
                                         <div class="separator"></div>
                                         <div class="clearfix"></div>
-                                        <h3 class="subtitle">Perguntar o que colocar ........</h3>
                                         <ul class="servicses-holder">
                                             <!-- 1  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
-                                                <i class="fa fa-map-signs"></i>
-                                                <h4>Fotografia</h4>
+                                                <i class="fa fa-picture-o"></i>
+                                                <h4>FOTO</h4>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                                  </p>
@@ -206,9 +205,9 @@ permalink: /sobre/
                                             </li>
                                             <!-- 1 end --> 
                                             <!-- 2  -->
-                                            <li data-bgscr="/assets/images/bg/54.jpg">
-                                                <i class="fa fa-tree"></i>
-                                              <h4>Fotografia</h4>
+                                            <li data-bgscr="/assets/images/bg/4.jpg">
+                                                <i class="fa fa-picture-o"></i>
+                                              <h4>ALBUM</h4>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                                  </p>
@@ -216,9 +215,9 @@ permalink: /sobre/
                                             </li>
                                             <!-- 2 end --> 
                                             <!-- 3  -->                                   
-                                            <li data-bgscr="/assets/images/bg/54.jpg">
-                                                <i class="fa fa-meh-o"></i>
-                                            <h4>Fotografia</h4>
+                                            <li data-bgscr="/assets/images/bg/4.jpg">
+                                                <i class="fa fa-film"></i>
+                                            <h4>FILMAGEM</h4>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                                  </p>
@@ -226,15 +225,36 @@ permalink: /sobre/
                                             </li>
                                             <!-- 3 end --> 
                                             <!-- 4  -->
-                                            <li data-bgscr="/assets/images/bg/10.jpg">
-                                                <i class="fa fa-language"></i>
-                                            <h4>Fotografia</h4>
+                                            <li data-bgscr="/assets/images/bg/4.jpg">
+                                                <i class="fa fa-film"></i>
+                                            <h4>RETROSPECTIVA</h4>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                                  </p>
                                                 <span>Preço : R$xxx-R$xxx</span>
                                             </li>
-                                            <!-- 4 end -->                                                                          
+                                            <!-- 4 end -->
+                                             <!-- 4  -->
+                                            <li data-bgscr="/assets/images/bg/4.jpg">
+                                                <i class="fa fa-picture-o"></i>
+                                            <h4>BANNER</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                                 </p>
+                                                <span>Preço : R$xxx-R$xxx</span>
+                                            </li>
+                                            <!-- 4 end -->
+                                             <!-- 4  -->
+                                            <li data-bgscr="/assets/images/bg/4.jpg">
+                                                <i class="fa fa-picture-o"></i>
+                                            <h4>BOOK</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                                 </p>
+                                                <span>Preço : R$xxx-R$xxx</span>
+                                            </li>
+                                            <!-- 4 end -->
+                                                                                                                
                                         </ul>
                                     </div>
                                 </div>

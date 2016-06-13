@@ -19,9 +19,9 @@ permalink: /portfolio/
                             <div class="filter-button">Filtro <i class="fa fa-long-arrow-down"></i></div>
                             <div class="gallery-filters hid-filter">
                                 <a href="#" class="gallery-filter transition2 gallery-filter_active" data-filter="*">Todas</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".people">Meninos</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".nature">Meninas</a>
-                                <a href="#" class="gallery-filter transition2" data-filter=".comercial">Familia</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".meninos">Meninos</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".meninas">Meninas</a>
+                                <a href="#" class="gallery-filter transition2" data-filter=".familia">Familia</a>
                             </div>
                         </div>
                         <!--=============== portfolio holder ===============-->
@@ -29,201 +29,199 @@ permalink: /portfolio/
                             <div class="p_horizontal_wrap">
                                 <div id="portfolio_horizontal_container">
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item people comercial">
+                                    <div class="portfolio_item meninos">
                                         <img  src="/assets/images/bg/22.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Quisque non augue</a></h3>
-                                                    <span>Travel</span>
+                                                   
+                                                    <span>Meninos</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Quisque non augue</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                               
+                                                <span><a href="#">Meninos</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item travel nature">
+                                    <div class="portfolio_item meninos">
                                         <img  src="/assets/images/bg/47.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Curabitur bibendum</a></h3>
-                                                    <span>Travel</span>
+                                               
+                                                    <span>Meninos</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Curabitur bibendum</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Meninos</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolioitem end -->
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item travel">
+                                    <div class="portfolio_item familia">
                                         <img  src="/assets/images/bg/33.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Adipiscing elit</a></h3>
-                                                    <span>Travel</span>
+                                                    
+                                                    <span>Familia</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Adipiscing elit</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                <span><a href="#">Familia</a> </span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->                             
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item nature comercial">
+                                    <div class="portfolio_item meninas">
                                         <img  src="/assets/images/bg/19.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Nam sagittis pretium</a></h3>
-                                                    <span>Nature</span>
+                                                    <span>Meninas</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Nam sagittis pretium</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Nature</a></span>
+                                                
+                                                <span><a href="#">Meninas</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolioitem end -->
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item travel comercial">
+                                    <div class="portfolio_item familia">
                                         <img  src="/assets/images/bg/9.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Nam gravida</a></h3>
-                                                    <span>Travel</span>
+                            
+                                                    <span>Familia</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Nam gravida</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Familia</a> </span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item travel comercial">
+                                    <div class="portfolio_item meninas">
                                         <img  src="/assets/images/bg/3.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Justo tortor</a></h3>
-                                                    <span>Travel</span>
+                                                    
+                                                    <span>Meninas</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Justo tortor</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Meninas</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->                                    
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item people nature">
+                                    <div class="portfolio_item familia">
                                         <img  src="/assets/images/bg/26.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Integer euismod</a></h3>
-                                                    <span>Travel</span>
+                                                    
+                                                    <span>Familia</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Integer euismod</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Familia</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->                            
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item travel nature">
+                                    <div class="portfolio_item meninos ">
                                         <img  src="/assets/images/bg/55.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Donec nulla purus,</a></h3>
-                                                    <span>Travel</span>
+                                                    
+                                                    <span>Meninos</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Donec nulla purus</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Meninos</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->                                            
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item people nature">
+                                    <div class="portfolio_item familia">
                                         <img  src="/assets/images/bg/17.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Maecenas vitae semper</a></h3>
-                                                    <span>Travel</span>
+                                                  
+                                                    <span>Familia</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Maecenas vitae semper</a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Familia</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- portfolio item end -->                                            
                                     <!-- portfolio item -->
-                                    <div class="portfolio_item people comercial">
+                                    <div class="portfolio_item meninas">
                                         <img  src="/assets/images/bg/21.jpg"   alt="">
                                         <div class="port-desc-holder">
                                             <div class="port-desc">
                                                 <div class="overlay"></div>
                                                 <div class="grid-item">
-                                                    <h3><a href="portfolio-single.html">Proin iaculis felis </a></h3>
-                                                    <span>Travel</span>
+                                                    
+                                                    <span>Meninas</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="port-subtitle-holder">
                                             <div class="port-subtitle">
-                                                <h3><a href="portfolio-single.html">Proin iaculis felis </a></h3>
-                                                <span><a href="#">Travel</a> / <a href="#">Photography</a></span>
+                                                
+                                                <span><a href="#">Meninas</a></span>
                                             </div>
                                         </div>
                                     </div>
