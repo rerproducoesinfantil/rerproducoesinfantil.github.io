@@ -27,7 +27,7 @@ permalink: /portfolio/
                         <!--=============== portfolio holder ===============-->
                         <div class="resize-carousel-holder">
                             <div class="p_horizontal_wrap">
-                                <div id="portfolio_horizontal_container" style="background-color: #f6f7a8;">
+                                <div id="portfolio_horizontal_container">
                                     <!-- portfolio item -->
                                     <div class="portfolio_item meninos">
                                         <img  src="/assets/images/bg/22.jpg"   alt="">

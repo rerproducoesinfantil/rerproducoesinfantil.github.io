@@ -207,7 +207,7 @@ permalink: /sobre/
                                             <!-- 2  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-picture-o"></i>
-                                              <h4>ALBUM</h4>
+                                              <h4>ÁLBUM</h4>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                                  </p>
