@@ -78,7 +78,8 @@ permalink: /contato/
                                     <div id="message"></div>
                                     <form method="post" action="php/contact.php" name="contactform" id="contactform">
                                         <input name="name" type="text" id="name" class="inputForm2" onclick="this.select()" value="Nome">
-                                        <input name="email" type="text" id="email" onclick="this.select()" value="E-mail">            
+                                        <input name="email" type="text" id="email" onclick="this.select()" value="E-mail">  
+                                        <input name="telefone" type="text" id="telefone" onclick="this.select()" value="Telefone" min="1" max="11">            
                                         <textarea name="comments" id="comments" onclick="this.select()">Menssagem</textarea>            										           											
                                         <input type="submit" class="send_message transition" id="submit" value="Enviar">
                                     </form>

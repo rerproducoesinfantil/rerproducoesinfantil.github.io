@@ -127,8 +127,8 @@ permalink: /sobre/
                                                 <div class="overlay"></div>
                                                 <ul class="team-social cdc" style="margin-top: -50px;">
                                                     <li><a href="https://www.facebook.com/rhodnei.pedroso/media_set?set=a.144278488943379.16408.100000836858795&type=3" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                                                    <!--<li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>-->
+                                                    <!--<li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>-->
                                                 </ul>
                                                 <img src="/assets/images/team/1.jpg" alt="" class="respimg"> 									
                                             </div>
@@ -146,8 +146,8 @@ permalink: /sobre/
                                                 <div class="overlay"></div>
                                                 <ul class="team-social cdc" style="margin-top: -50px; display: block;">
                                                     <li><a href="https://www.facebook.com/profile.php?id=100008611428817&sk=photos&collection_token=100008611428817%3A2305272732%3A5" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                                                    <!--<li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>-->
+                                                    <!--<li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>-->
                                                 </ul>
                                                 <img src="/assets/images/team/2.jpg" alt="" class="respimg"> 										
                                             </div>
@@ -198,60 +198,60 @@ permalink: /sobre/
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-picture-o"></i>
                                                 <h4>FOTO</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                               <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 1 end --> 
                                             <!-- 2  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-picture-o"></i>
                                               <h4>ÁLBUM</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                               <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 2 end --> 
                                             <!-- 3  -->                                   
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-film"></i>
                                             <h4>FILMAGEM</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                                <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 3 end --> 
                                             <!-- 4  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-film"></i>
                                             <h4>RETROSPECTIVA</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                                 <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 4 end -->
                                              <!-- 4  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-picture-o"></i>
                                             <h4>BANNER</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                                <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 4 end -->
                                              <!-- 4  -->
                                             <li data-bgscr="/assets/images/bg/4.jpg">
                                                 <i class="fa fa-picture-o"></i>
                                             <h4>BOOK</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                 </p>
-                                                <span>Preço : R$xxx-R$xxx</span>
+                                                 </p>-->
+                                                <!-- <span>Preço : R$xxx-R$xxx</span>-->
                                             </li>
                                             <!-- 4 end -->
                                                                                                                 
